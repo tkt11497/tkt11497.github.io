@@ -1,0 +1,14 @@
+<svg id="phone_in_talk-black-18dp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9cba3"/>
+      <stop offset="0.151" stop-color="#eedebc"/>
+      <stop offset="0.43" stop-color="#c9a885"/>
+      <stop offset="0.726" stop-color="#c9a885"/>
+      <stop offset="0.926" stop-color="#eedebc"/>
+      <stop offset="1" stop-color="#eacea8"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_4677" data-name="Path 4677" d="M0,0H16V16H0Z" fill="none"/>
+  <path id="Path_4678" data-name="Path 4678" d="M9.6,4.37a4.657,4.657,0,0,1,4.047,4.047A.663.663,0,0,0,14.3,9,.325.325,0,0,0,14.382,9a.668.668,0,0,0,.58-.747A5.987,5.987,0,0,0,9.755,3.043a.668.668,0,0,0-.74.587.658.658,0,0,0,.58.74Zm.253,1.407A.668.668,0,1,0,9.515,7.07,2,2,0,0,1,10.949,8.5.669.669,0,0,0,11.6,9a.712.712,0,0,0,.167-.02.678.678,0,0,0,.48-.813A3.345,3.345,0,0,0,9.849,5.777Zm3.98,5.4-1.693-.193a1.327,1.327,0,0,0-1.093.38L9.815,12.59A10.03,10.03,0,0,1,5.422,8.2L6.655,6.963a1.327,1.327,0,0,0,.38-1.093L6.842,4.19A1.334,1.334,0,0,0,5.515,3.01H4.362A1.323,1.323,0,0,0,3.029,4.39,11.328,11.328,0,0,0,13.622,14.983,1.323,1.323,0,0,0,15,13.65V12.5A1.321,1.321,0,0,0,13.829,11.177Z" transform="translate(-1.009 -1.003)" fill="url(#linear-gradient)"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg id="megaphone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a5e5ba"/>
+      <stop offset="1" stop-color="#fff1ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01baef"/>
+      <stop offset="1" stop-color="#20bf55"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3281" data-name="Group 3281">
+    <circle id="Ellipse_173" data-name="Ellipse 173" cx="40" cy="40" r="40" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_3283" data-name="Group 3283" transform="translate(16.406 20.57)">
+    <g id="Group_3282" data-name="Group 3282">
+      <path id="Path_5017" data-name="Path 5017" d="M150.8,148.3h-2.776a1.388,1.388,0,0,0,0,2.776H150.8a1.388,1.388,0,0,0,0-2.776Zm-5.046-5.482,1.963-1.962a1.388,1.388,0,0,0-1.963-1.962l-1.962,1.962a1.388,1.388,0,0,0,1.962,1.962Zm0,13.74a1.388,1.388,0,0,0-1.962,1.963l1.962,1.962a1.388,1.388,0,1,0,1.963-1.962Zm-8.833-24.913a1.387,1.387,0,0,0-1.388,1.388v.042c0,4.467-6.638,9.224-16.654,9.633v13.949c9.883.419,16.654,5.272,16.654,9.685a1.388,1.388,0,0,0,2.776,0V133.035A1.387,1.387,0,0,0,136.921,131.647ZM105,149.689a6.951,6.951,0,0,0,5.551,6.8v11.243a2.776,2.776,0,1,0,5.552,0V142.75h-4.164A6.947,6.947,0,0,0,105,149.689Zm36.085-3.908V153.6a4.139,4.139,0,0,0,0-7.816Z" transform="translate(-105 -131.647)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

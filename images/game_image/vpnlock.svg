@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="172" viewBox="0 0 172 172">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#20bf55"/>
+      <stop offset="1" stop-color="#01baef"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3279" data-name="Group 3279" transform="translate(-126 -171)">
+    <g id="Ellipse_172" data-name="Ellipse 172" transform="translate(126 171)" fill="#fff" stroke="#14612d" stroke-width="1" stroke-dasharray="80" opacity="0.1">
+      <circle cx="86" cy="86" r="86" stroke="none"/>
+      <circle cx="86" cy="86" r="85.5" fill="none"/>
+    </g>
+    <g id="Group_3269" data-name="Group 3269">
+      <g id="Layer_2" data-name="Layer 2" transform="translate(162 207)">
+        <g id="shield" transform="translate(0 0)">
+          <rect id="Rectangle_1346" data-name="Rectangle 1346" width="100" height="100" stroke="#83eaf1" stroke-width="3" opacity="0" fill="url(#linear-gradient)"/>
+          <path id="Path_5014" data-name="Path 5014" d="M40.8,84.946a8.4,8.4,0,0,1-4.2-1.05l-1.26-.714A63.713,63.713,0,0,1,3,27.743v-.588a8.4,8.4,0,0,1,4.2-7.35L36.6,3.257a8.4,8.4,0,0,1,8.4,0L74.4,19.805a8.4,8.4,0,0,1,4.2,7.35v.588A63.713,63.713,0,0,1,46.175,83.182l-1.26.714A8.4,8.4,0,0,1,40.8,84.946Z" transform="translate(9.5 6.618)" stroke="#83eaf1" stroke-width="3" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <text id="VPN" transform="translate(210.889 260.556)" fill="#fff" font-size="19" font-family="Aileron-Bold, Aileron" font-weight="700"><tspan x="-19.674" y="0">VPN</tspan></text>
+      <g id="Group_3268" data-name="Group 3268" transform="translate(215.333 272.556)">
+        <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.333" cy="13.333" r="13.333" transform="translate(0 0)" fill="#fff"/>
+        <g id="block" transform="translate(0 0)">
+          <path id="Path_5015" data-name="Path 5015" d="M0,0H26.667V26.667H0Z" fill="none"/>
+          <path id="Path_5016" data-name="Path 5016" d="M13.111,2A11.111,11.111,0,1,0,24.222,13.111,11.115,11.115,0,0,0,13.111,2ZM4.222,13.111a8.886,8.886,0,0,1,8.889-8.889A8.78,8.78,0,0,1,18.556,6.1L6.1,18.556A8.78,8.78,0,0,1,4.222,13.111ZM13.111,22a8.78,8.78,0,0,1-5.444-1.878L20.122,7.667A8.78,8.78,0,0,1,22,13.111,8.886,8.886,0,0,1,13.111,22Z" transform="translate(0.222 0.222)" fill="#f44336"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
