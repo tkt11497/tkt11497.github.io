@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="28" height="48" viewBox="0 0 28 48">
-  <g id="Group_3220" data-name="Group 3220" transform="translate(-361 -54)">
-    <g id="refresh-black-18dp" transform="translate(361 54)">
-      <path id="Path_4698" data-name="Path 4698" d="M0,0H28V28H0Z" fill="none"/>
-      <path id="Path_4699" data-name="Path 4699" d="M21.062,6.938a9.941,9.941,0,0,0-8.1-2.887A10,10,0,1,0,23.012,18.3a1.252,1.252,0,0,0-1.125-1.8,1.216,1.216,0,0,0-1.1.662A7.495,7.495,0,1,1,14,6.5a7.4,7.4,0,0,1,5.276,2.225l-1.888,1.887a1.25,1.25,0,0,0,.875,2.137H22.75A1.254,1.254,0,0,0,24,11.5V7.013a1.254,1.254,0,0,0-2.138-.887l-.8.812Z" transform="translate(0 0)" fill="#071116"/>
-    </g>
-    <text id="刷新" transform="translate(375 97)" font-size="14" font-family="PingFangSC-Regular, PingFang SC" letter-spacing="-0.02em"><tspan x="-13.86" y="0">刷新</tspan></text>
-  </g>
-</svg>
